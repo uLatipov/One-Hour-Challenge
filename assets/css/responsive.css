@@ -57,13 +57,14 @@
         width: 90%;
     }
 
-    .nav-button{
+    nav .nav-button{
         display: block;
     }
 
     nav .nav-links, nav .nav-form{
         display: none;
     }
+
     /* header > .container{
         flex-direction: column;
     }

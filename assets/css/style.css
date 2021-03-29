@@ -244,4 +244,6 @@ padding: 80px 0;
 
 .nav-button{
     display: none;
+    padding: 12px 20px;
+    font-size: 18px;
 }
